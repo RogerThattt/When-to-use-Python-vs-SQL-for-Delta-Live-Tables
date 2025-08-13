@@ -1,0 +1,1 @@
+# When-to-use-Python-vs-SQL-for-Delta-Live-Tables
